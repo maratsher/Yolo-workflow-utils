@@ -1,0 +1,5 @@
+tqdm == 4.36.1
+opencv-python == 4.5.5.62
+numpy == 1.17.3
+imgaug == 0.3.0
+PyYAML == 6.0
